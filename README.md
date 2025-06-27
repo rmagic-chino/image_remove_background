@@ -4,6 +4,7 @@
 
 # 1. drag and drop files for easy access
 # 2. a window animation
+# 3. Free
 
 # requirements:
 
